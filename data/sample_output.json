@@ -1,0 +1,26 @@
+[
+  {
+    "asin": "B08N5WRWNW",
+    "review_id": "R3ABCD123",
+    "reviewer_name": "John Doe",
+    "rating": 5,
+    "title": "Works perfectly!",
+    "review_text": "This product exceeded expectations. Highly recommended.",
+    "verified_purchase": true,
+    "date": "2025-02-14",
+    "variant": "Black – 64GB",
+    "helpful_votes": 12
+  },
+  {
+    "asin": "B08N5WRWNW",
+    "review_id": "R7XYZ987",
+    "reviewer_name": "Jane Smith",
+    "rating": 4,
+    "title": "Solid value for the price",
+    "review_text": "Good overall performance, but the battery life could be better.",
+    "verified_purchase": true,
+    "date": "2025-02-10",
+    "variant": "Black – 64GB",
+    "helpful_votes": 4
+  }
+]
