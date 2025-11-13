@@ -1,0 +1,6 @@
+# One ASIN per line.
+# Lines starting with "#" are ignored.
+# This file is used by src/runner.py when no --input is provided.
+
+B08N5WRWNW
+B0C1234567
