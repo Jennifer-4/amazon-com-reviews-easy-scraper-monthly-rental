@@ -1,0 +1,19 @@
+{
+  "base_url": "https://www.amazon.com/product-reviews/{asin}?pageNumber={page}",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "max_reviews_per_asin": 1000,
+  "request_timeout": 10,
+  "delay_between_requests": 1.2,
+  "stars": [1, 2, 3, 4, 5],
+  "review_type": "all",
+  "variants_mode": "selected_only",
+  "daily_asin_limit": 1000,
+  "output": {
+    "format": "json",
+    "indent": 2,
+    "path": "data/sample_output.json"
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}
